@@ -27,7 +27,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 |9/21/2026 |10:50AM   | MTG    |  Team planning meeting: dividing tasks for project setup|     25      |
-|9/21/2026 | 1:00PM   | IM     |  Start learning Typesript: Github repo setup,                   |     60      |
+|9/21/2026 | 1:00PM   | IM     |  Start learning Typesript: Github repo setup, environment setup                  |     60      |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |

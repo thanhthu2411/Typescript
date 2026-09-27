@@ -27,9 +27,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 |9/21/2026 |10:50AM   | MTG    |  Team planning meeting: dividing tasks for project setup|     25      |
-|9/21/2026 | 1:00PM   | IM     |  Start learning Typesript: Github repo setup, environment setup, Typescript types                  |     120      |
-|9/23/2026 |12:40PM   | IM     | Typescript: Typescript types const,function basics, classes  |      120       |
-|          |          |        |                                            |             |
+|9/21/2026 |1:00PM    | IM     |  Start learning Typesript: Github repo setup, environment setup, Typescript types                  |     120      |
+|9/23/2026 |10:40AM   | MTG    | Project planning  |             |
+|9/23/2026 |1:40PM    | IM     | Typescript: Typescript types const,function basics, classes  |      120       |
+|9/24/2026 |4:30PM    | IM     | Typescript:  interfaces, classes with interfaces, generics, tuples, modules  |      60       |
+|9/24/2026 |6:00PM    | TP     | ProgreSQL: plan initial database schema  |      60       |
+|9/25/2026 |10:20PM   | MTG    | Standup Meeting  |      10       |
+|9/26/2026 |12:20PM   | TP     |ProgreSQL: plan initial database schema (const) |     60      |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
